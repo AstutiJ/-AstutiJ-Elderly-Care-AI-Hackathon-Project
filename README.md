@@ -68,3 +68,7 @@ This project showcases how AI agents can collaborate to support elderly individu
 -Peace of mind
 -It demonstrates a working prototype using real datasets and simple automation logic — ready for further development or deployment.
 
+📊 [Project Presentation (PPT)](https://1drv.ms/p/c/2816fb1455ca17ee/EZDTPc0XMSZMhrtHnNUrJmsBhHQB9rXtoXlEWQhWas_peg?e=Wuu2Jv)
+
+
+
